@@ -34,17 +34,13 @@ You can also use yarn here instead.
 
     yarn build
 
+`npm start` hosts the web application on a development server at [http:/localhost:3000](http:/localhost:3000)
 
+`npm install` installs required or dependencies for React.js project.
 
-'npm start' starts hosting the web application on a development server at [http:/localhost:3000](http:/localhost:3000)
-
-'npm install' installs required or dependencies for React.js project.
-
-`npm run build` will build the app for production to the `build` folder.<br />
+`npm run build` builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-
-## A serverless, static, Torpoise web-app by Griffin Ryan
+## Serverless, static, sleek Torpoise web-app by Griffin Ryan
 
 Go see [https://torpoise.com/](https://torpoise.com/) now!
