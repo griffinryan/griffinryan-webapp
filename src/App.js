@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logoblank512.svg';
+import logo from './logowhite512.svg';
 import './App.css';
 
 function App() {
