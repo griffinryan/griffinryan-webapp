@@ -96,6 +96,11 @@
       "src": "sax.png",
       "type": "image/png",
       "sizes": "639x960"
+    },
+    {
+      "src": "albumfull.png",
+      "type": "image/png",
+      "sizes": "3084x2313"
     }
   ],
   "start_url": ".",
