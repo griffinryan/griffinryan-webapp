@@ -22,6 +22,8 @@ To host the web application locally, test, etc.
     
     npm test
 
+    npm install
+
     npm run build
 
 You can also use yarn here instead.
@@ -33,6 +35,10 @@ You can also use yarn here instead.
 ### 'npm start'
 
 Start hosting the web application on a local server at [http:/localhost:3000](http:/localhost:3000)
+
+### 'npm install'
+
+Install dependencies for React.js project.
 
 ### `npm run build`
 
