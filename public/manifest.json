@@ -16,6 +16,21 @@
       "src": "clear512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "white512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "white1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "notext512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
