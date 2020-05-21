@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
+
 import './App.css';
+import logo from './Components/borderedrainbow.svg';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -47,9 +49,13 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          <code>Torpoise web application, 2020 Griffin Ryan.    Built on React.js and AWS.</code>
+        </p>
         <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
+        <Resume data={this.state.resumeData.resume}/>
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
