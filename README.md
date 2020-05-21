@@ -38,7 +38,7 @@ You can also use yarn here instead.
 
 `npm install` installs required or dependencies for React.js project.
 
-`npm run build` builds the app for production to the `build` folder.<br />
+`npm run build` builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Serverless, static, sleek Torpoise web-app by Griffin Ryan
