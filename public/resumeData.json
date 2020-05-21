@@ -2,14 +2,14 @@
   "main": {
     "name":"Griffin Ryan",
     "occupation":"artist, developer, and student.",
-    "description":"Having seen knowledgeable success in the Seattle music scene, electronic artist Griffin Ryan performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture",
+    "description":"Heartbreak Disco now streaming on all platforms",
     "image":"baby.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Having seen knowledgeable success in the Seattle music scene, electronic artist has performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture",
     "contactmessage":"If you would like to reach me personally, please reach out! ❤️",
     "email": "torpoise@icloud.com",
     "phone": "253-732-2807",
     "address":{
-      "city":"Tacoma",
+      "city":"Seattle",
       "state":"Washington"
     },
     "website": "https://www.torpoise.com",

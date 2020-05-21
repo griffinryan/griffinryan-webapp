@@ -34,11 +34,13 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
-         <img src={logo} className="App-logo" alt="logo" />
          <div className="banner-text">
-            <h1 className="responsive-headline"></h1>
-            <h2><span>T O R P O I S E</span></h2>
+            <h2 className="responsive-headline"><span></span>T O R P O I S E</h2>
+            
+            <img src={logo} className="App-logo" alt="logo" />
+            
             <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span> {description}.</h3>
+
             <hr />
             <ul className="social">
                {networks}
