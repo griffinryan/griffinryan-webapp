@@ -1,4 +1,17 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode/*
+/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+nohup.out
 
 # dependencies
 /node_modules
