@@ -56,6 +56,46 @@
       "src": "rainbowthird.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "album.png",
+      "type": "image/png",
+      "sizes": "2056x2056"
+    },
+    {
+      "src": "albumcrop.png",
+      "type": "image/png",
+      "sizes": "2056x2056"
+    },
+    {
+      "src": "baby.png",
+      "type": "image/png",
+      "sizes": "1028x771"
+    },
+    {
+      "src": "butt.png",
+      "type": "image/png",
+      "sizes": "2056x2741"
+    },
+    {
+      "src": "rainbowthird.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "disco.png",
+      "type": "image/png",
+      "sizes": "2056x2741"
+    },
+    {
+      "src": "profile.png",
+      "type": "image/png",
+      "sizes": "1026x1023"
+    },
+    {
+      "src": "sax.png",
+      "type": "image/png",
+      "sizes": "639x960"
     }
   ],
   "start_url": ".",
