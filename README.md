@@ -1,7 +1,7 @@
-# Torpoise webpage
+# https://torpoise.com/
 
 ![Torpoise Logo.png](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpoiselogo.png)
-Source of [https://torpoise.com/](https://torpoise.com/) by Griffin Ryan.
+Source code for [https://torpoise.com/](https://torpoise.com/) by Griffin Ryan.
 
 Built on React.js and AWS.
 

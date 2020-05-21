@@ -49,10 +49,6 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          <code>Torpoise web application, 2020 Griffin Ryan.    Built on React.js and AWS.</code>
-        </p>
         <About data={this.state.resumeData.main}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Resume data={this.state.resumeData.resume}/>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './borderedrainbow.svg';
 
 class Header extends Component {
   render() {
@@ -33,9 +34,11 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
+         <img src={logo} className="App-logo" alt="logo" />
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h1 className="responsive-headline"></h1>
+            <h2><span>T O R P O I S E</span></h2>
+            <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span> {description}.</h3>
             <hr />
             <ul className="social">
                {networks}
