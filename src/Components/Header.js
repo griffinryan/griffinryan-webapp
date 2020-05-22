@@ -40,7 +40,9 @@ class Header extends Component {
             <img src={logo} className="App-logo" alt="logo" />
             
             <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span> {description}.</h3>
-
+            <br  >
+            <h3>Check out Torpoise's <span>development</span> projects!</h3>
+            </br>
             <hr />
             <ul className="social">
                {networks}

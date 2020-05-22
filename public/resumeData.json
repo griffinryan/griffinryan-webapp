@@ -5,7 +5,7 @@
     "description":"Heartbreak Disco now streaming on all platforms",
     "image":"profile.png",
     "bio":"Having seen knowledgeable success in the Seattle music scene, electronic artist has performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture",
-    "contactmessage":"If you would like to reach me personally please do so here! ❤️",
+    "contactmessage":"If you would like to reach me personally... please do so here! ❤️",
     "email": "torpoise@icloud.com",
     "phone": "253-732-2807",
     "address":{
@@ -16,39 +16,33 @@
     "resumedownload":"https://torpoise.com",
     "social":[
       {
+        "name":"github",
+        "url":"https://github.com/torpoise",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"spotify",
+        "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/torpoise/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/poorboystorpoise",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/griffintorpoise",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -144,8 +138,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Your first projects aren’t the greatest things in the world, and they may have no money value, they may go nowhere, but that is how you learn – you put so much effort into making something right if it is for yourself.",
-        "user":"Steve Wozniak, co-founder of Apple Inc."
+        "text":"Torpoise (Griffin Ryan), a 2017 Sound Off! finalist, lived up to his reputation. Steadily garnering respect in the Seattle electronic scene, this fresh voice arrived completely up to the challenge of opening for not just one, but two local favorites. Actively cutting beats and introducing some live instrumentation caught everyone’s attention. Anything less than what was delivered would have fallen flat, but Torpoise’s clear-cut talent lived up to the night’s unusually high expectations.",
+        "user":"Casey Grosso for Dance Music Northwest, January 8, 2020.'"
       }
     ]
   }
