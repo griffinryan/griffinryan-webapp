@@ -1,4 +1,4 @@
-# torpoisepage
+# torpoisepage, a React.js web application
 
 ![Torpoise Logo.png](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpoiselogo.png)
 Source code for [https://torpoise.com/](https://torpoise.com/) by Griffin Ryan.
