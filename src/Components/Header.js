@@ -25,9 +25,9 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
@@ -39,10 +39,10 @@ class Header extends Component {
             
             <img src={logo} className="App-logo" alt="logo" />
             
-            <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span></h3><hr />
+            <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span></h3>
             <h3>{description}.</h3><hr />
-            <li>Visit the <a title="Torpoise Spotify" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Torpoise Spotify</a> page.</li> <hr />
-            <h3>Also check out <a title="Torpoise's development projects" href="https://github.com/torpoise/torpoisepage">Torpoise's development projects</a> page. projects!</h3>
+            <h3>Listen to <a title="Torpoise on Spotify" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Torpoise on Spotify</a>!</h3>
+            <h3>Check out <a title="Torpoise's development projects" href="https://github.com/torpoise/torpoisepage">Torpoise's development projects</a>!</h3>
             <hr />
             <ul className="social">
                {networks}
