@@ -3,9 +3,9 @@
     "name":"Griffin Ryan",
     "occupation":"artist, developer, and student.",
     "description":"Heartbreak Disco now streaming on all platforms",
-    "image":"baby.png",
+    "image":"profile.png",
     "bio":"Having seen knowledgeable success in the Seattle music scene, electronic artist has performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture",
-    "contactmessage":"If you would like to reach me personally, please reach out! ❤️",
+    "contactmessage":"If you would like to reach me personally please do so here! ❤️",
     "email": "torpoise@icloud.com",
     "phone": "253-732-2807",
     "address":{
@@ -144,8 +144,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"...And so there I was, minding my own business, and it turns out George was filming the whole time!.",
-        "user":"Hayden Christiansen (Revenge of the Sith, 2005)."
+        "text":"Your first projects aren’t the greatest things in the world, and they may have no money value, they may go nowhere, but that is how you learn – you put so much effort into making something right if it is for yourself.",
+        "user":"Steve Wozniak, co-founder of Apple Inc."
       }
     ]
   }
