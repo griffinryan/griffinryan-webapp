@@ -3,7 +3,6 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 
 import './App.css';
-import logo from './Components/borderedrainbow.svg';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
