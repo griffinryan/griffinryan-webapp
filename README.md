@@ -11,9 +11,9 @@ See the website [here!](https://torpoise.com/)
 
 To host the web application locally, clone this repository and cd into it.
 
-    git clone https://github.com/torpoise/torppage.git
+    git clone https://github.com/torpoise/torpoisepage.git
 
-    cd torppage/
+    cd torpoisepage/
 
 The app for [https://torpoise.com/](https://torpoise.com/) is built on React.js.
 This means we can use Node.js (or specifically npm) to interact with it.
