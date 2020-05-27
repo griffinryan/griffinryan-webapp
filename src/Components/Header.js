@@ -33,14 +33,13 @@ class Header extends Component {
 
       </nav>
 
-      <div className="row banner">
+      <div className="row banner"> 
          <div className="banner-text">
             <h2 className="responsive-headline"><span></span>T O R P O I S E</h2>
-            
             <img src={logo} className="App-logo" alt="logo" />
             
-            <h3><span>Griffin Ryan</span> is {city} based <span>{occupation}</span></h3>
-            <h3>{description}.</h3><hr />
+            <h3>Griffin Ryan is {city} based {occupation}</h3>
+            <h3>{description}</h3><hr />
             <h3>Listen to <a title="Torpoise on Spotify" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Torpoise on Spotify</a>!</h3>
             <h3>Check out <a title="Torpoise's development projects" href="https://github.com/torpoise/torpoisepage">Torpoise's development projects</a>!</h3>
             <hr />

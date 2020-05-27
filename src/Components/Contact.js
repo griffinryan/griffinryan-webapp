@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './borderedrainbow.svg';
+import logo from './logowhite512.svg';
 
 class Contact extends Component {
   render() {

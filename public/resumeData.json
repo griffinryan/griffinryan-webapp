@@ -2,7 +2,7 @@
   "main": {
     "name":"Griffin Ryan",
     "occupation":"artist, developer, and student.",
-    "description":"",
+    "description":"❤️",
     "image":"profile.png",
     "bio":"Having seen knowledgeable success in the Seattle music scene, electronic artist has performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture",
     "contactmessage":"If you would like to reach me personally... please do so here! ❤️",
@@ -19,10 +19,6 @@
         "name":"github",
         "url":"https://github.com/torpoise",
         "className":"fa fa-github"
-      },
-      {
-        "name":"spotify",
-        "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
       },
       {
         "name":"instagram",
@@ -50,24 +46,18 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Tacoma Community College",
+        "degree":"Associates of Computer Science",
+        "graduated":"Spring 2020",
+        "description":"Composed of criteria organized around the study of design and algorithmic focus. Students are geared towards software engineering through basic computer science fundamentals. All curriculum based in Java 8."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Torpoise",
+        "title":"Owner ",
+        "years":"Februrary 2015 - Present",
+        "description":"Multimedia producer 'Torpoise' is the electronic pop music project of Griffin Ryan. Having been on interviewed on KING5 as the 'young and fresh face on the scene,' Torpoise has played for notable Seattle venues such as Neumos Crystal Ball Reading Room, 90.3 KEXP, The Crocodile, The Vera Project, and many more. "
       }
     ],
     "skills":[
@@ -104,34 +94,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Torpoise Live on KEXP",
+        "category":"A live performance by Torpoise",
+        "image":"disco.png",
+        "url":"https://www.youtube.com/watch?v=1ZbsWzYA55Q"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Heartbreak Disco",
+        "category":"Torpoise on Spotify",
+        "image":"album.png",
+        "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Instagram",
+        "category":"Check me out on Instagram",
+        "image":"butt.png",
+        "url":"https://www.instagram.com/torpoise/?hl=en"
       }
     ]
   },
