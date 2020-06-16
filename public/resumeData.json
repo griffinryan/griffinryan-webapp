@@ -94,13 +94,19 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Pong",
+        "category":"Built with Java",
+        "image":"ping.png",
+        "url":"https://github.com/torpoise/pongteamgame.git"
+      },
+      {
         "title":"Torpoise Live on KEXP",
         "category":"A live performance by Torpoise",
         "image":"disco.png",
         "url":"https://www.youtube.com/watch?v=1ZbsWzYA55Q"
       },
       {
-        "title":"Heartbreak Disco",
+        "title":"Heartbreak Disco on Spotify",
         "category":"Torpoise on Spotify",
         "image":"album.png",
         "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
