@@ -40,7 +40,7 @@ class Header extends Component {
             
             <h3>Griffin Ryan is {city} based {occupation}</h3>
             <h3>{description}</h3><hr />
-            <h3>Listen to <a title="Torpoise" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Torpoise</a> on <a title="Spotify" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Spotify</a>!</h3>
+            <h3>Listen to Torpoise on <a title="Spotify" href="https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3">Spotify</a>!</h3>
             <h3>New music coming soon.</h3>
             <hr />
             <ul className="social">
