@@ -94,6 +94,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"torpdots",
+        "category":"Command-line utility built for macOS",
+        "image":"torpdots.png",
+        "url":"https://github.com/torpoise/torpdots.git"
+      },
+      {
         "title":"Pong",
         "category":"Built with Java",
         "image":"ping.png",
