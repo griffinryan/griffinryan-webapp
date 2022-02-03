@@ -1,21 +1,22 @@
-# torpoisepage - a React.js web application
+# griffinryan.com - a React.js web application
 
 ![Torpoise Logo.png](https://torpoisebucket.s3-us-west-2.amazonaws.com/torpoiselogo.png)
-Source code for [https://torpoise.com/](https://torpoise.com/) by Griffin Ryan.
+
+Source code for [https://griffinryan.com/](https://griffinryan.com/) by Griffin Ryan.
 
 Built on React.js and AWS.
 
-See the website [here!](https://torpoise.com/)
+See the website [here!](https://griffinryan.com/)
 
 ## Build
 
 To host the web application locally, clone this repository and cd into it.
 
-    git clone https://github.com/torpoise/torpoisepage.git
+    git clone https://github.com/griffinryan/griffinpage.git
 
-    cd torpoisepage/
+    cd griffinpage/
 
-The app for [https://torpoise.com/](https://torpoise.com/) is built on React.js.
+The app for [https://griffinryan.com/](https://griffinryan.com/) is built on React.js.
 This means we can use Node.js (or specifically npm) to interact with it.
 
 To host the web application locally, test, etc.
@@ -41,6 +42,6 @@ You can also use yarn here instead.
 `npm run build` builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Serverless, static, sleek Torpoise web-app by Griffin Ryan
+## Serverless, static, sleek web-app by Griffin Ryan
 
-Go see [https://torpoise.com/](https://torpoise.com/) now!
+Go see [https://griffinryan.com/](https://griffinryan.com/) now!
