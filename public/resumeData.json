@@ -6,18 +6,18 @@
     "image":"profile.png",
     "bio":"Having seen notable success in the Seattle music scene, electronic artist 'Torpoise' (A.K.A Griffin Ryan) has performed for recognized institutions such as KEXP, Neumos, and the Musuem of Pop Culture. While not playing music or programming, Griffin is an automotive enthusiast.",
     "contactmessage":"If you would like to reach me personally... please do so here! ❤️",
-    "email": "torpoise@icloud.com",
-    "phone": "253-732-2807",
+    "email": "glryan@uw.edu",
+    "phone": "***-***-****",
     "address":{
-      "city":"Seattle,",
+      "city":"Seattle",
       "state":"Washington"
     },
-    "website": "https://www.torpoise.com",
-    "resumedownload":"https://torpoise.com",
+    "website": "https://www.griffinryan.com",
+    "resumedownload":"https://torpoisebucket.s3.us-west-2.amazonaws.com/GriffinRyan_Resume.pdf",
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/torpoise",
+        "url":"https://github.com/griffinryan",
         "className":"fa fa-github"
       },
       {
@@ -37,7 +37,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/griffin-ryan-558819183/",
         "className":"fa fa-linkedin"
       }
     ]
@@ -46,9 +46,9 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Tacoma Community College",
-        "degree":"Associates of Computer Science",
-        "graduated":"Spring 2020",
+        "school":"University of Washington",
+        "degree":"Bachelor of Computer Science and Systems",
+        "graduated":"Spring 2023",
         "description":"Composed of criteria organized around the study of design and algorithmic focus. Students are geared towards software engineering through basic computer science fundamentals. All curriculum based in Java 8."
       }
     ],
@@ -94,16 +94,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"torpdots",
+        "title":"macrice",
         "category":"Command-line utility built for macOS",
         "image":"torpdots.png",
-        "url":"https://github.com/torpoise/torpdots.git"
+        "url":"https://github.com/griffinryan/macrice.git"
       },
       {
-        "title":"Pong",
+        "title":"javapong",
         "category":"Built with Java",
         "image":"ping.png",
-        "url":"https://github.com/torpoise/pongteamgame.git"
+        "url":"https://github.com/griffinryan/javapong.git"
       },
       {
         "title":"Torpoise Live on KEXP",
@@ -112,7 +112,7 @@
         "url":"https://www.youtube.com/watch?v=1ZbsWzYA55Q"
       },
       {
-        "title":"Heartbreak Disco on Spotify",
+        "title":"My music on Spotify",
         "category":"Check me out on Spotify",
         "image":"album.png",
         "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
