@@ -13,7 +13,7 @@
       "state":"Washington"
     },
     "website": "https://www.griffinryan.com",
-    "resumedownload":"https://torpoisebucket.s3.us-west-2.amazonaws.com/GriffinRyan_Resume.pdf",
+    "resumedownload":"https://torpoisebucket.s3.us-west-2.amazonaws.com/Resume_GriffinRyan.pdf?response-content-disposition=attachment&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJGMEQCIDgVU6aTGcYcuxqqjmNbY5zlCtXkdSVn7%2Fe5IWeyOwfVAiBDRipmpu2p8PIQuYewjzu3rE6PTqUVP38%2FAgCMREE4gSrkAgh%2BEAIaDDIwOTg2MzE1OTgzOSIMIKsoI9zcg5cKjmwQKsECQ2sJ%2FHTTiCTlhBN8p9woZRAXD0WosnjPsOTm2fiWh%2BT9TezuXehUVmbEow%2BwTZUleevFID5FGSXiTsq1ODGHdLwevfLdTQ8taHJ%2BgYMLtqhp606vs2F9Ri8xI7P3Nlq5wsbSsz7dZi7x6X%2Br0foCjq3lo0u2rAklbgZEjedsmEpuWpmG16Kqih7ywc6DGuQEaT7VeTPfhC%2Buo5Q3NMxJ2oYcZt%2F4plXvpyl9Q3V2yAPr7rcE2%2BCISH6xUn%2BayNgUIrRi4SqhSLM94mJ9CKZvNgKYdu%2BXHGL38QH5qqe0%2BbkyO6uELTaB2fkye7yKgU0aZb9Ui7DLeu1KgpbUvsfgJ84nFKZXwPjAERMSHbtNeOaBKJAbW4VCWriUBDbYMBszfw3h2YXeqlH4RXa%2BqaMz7hCz5dV065WxGPz7Rc%2BKck2TMOqI8Y8GOrQCpJ0ENVjI8rQnlBGMuJXVN1%2Bm3CL9oj8sOAKVL4D1D7tDCwoLU1Nv4HVq3hVsvEGpWVOh%2F0SXLO6e0hJK0GTzD8xN4HDIec9K5o3qFLq5ve4g1S7LmUpGlDKbBqXmtKCJ%2BmjY8evJR9OjIaDYdutecnAg%2B1A3rsktd7Jml1WTMRb2XakY68ZDoFNwtWVtf69V4aLUdy5dpTB6dtIyW8Cmv7JlUx4ksYhxP3wmI%2FpupQywmSltuNer1QYCK2hqfEAwlom7sx8ZwljhmTeFlCVHUYOpuO5ha963rLfq6%2FzY%2FIUyc%2FdgHFyVW%2B%2BUeb9R6kkyltx1nfxsyuDZbd4PDN0Qo7Jhw8%2FEcT3UHgT%2F84rOQM%2FHQuv%2FQo4M8mkQQle2qWdXIb264FoFBjWpQdvV0%2BIE11TluP4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220204T020039Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIATBXGRWAPXV62HHHF%2F20220204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=8a3fb55a0d406a67f26ac7333809b1baae8966f436fb0874e6bbd36edf5fffe8",
     "social":[
       {
         "name":"github",
@@ -37,7 +37,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/griffin-ryan-558819183/",
+        "url":"https://www.linkedin.com/in/griffinlryan",
         "className":"fa fa-linkedin"
       }
     ]
@@ -94,16 +94,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"macrice",
-        "category":"Command-line utility built for macOS",
-        "image":"torpdots.png",
-        "url":"https://github.com/griffinryan/macrice.git"
+        "title":"A CGI Study",
+        "category":"Research paper on perspective rendering and 3D math",
+        "image":"cgi.png",
+        "url":"https://torpoisebucket.s3.us-west-2.amazonaws.com/A%20CGI%20Study%20-%20Griffin%20Ryan.pdf?response-content-disposition=attachment&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEUaCXVzLXdlc3QtMiJGMEQCIDgVU6aTGcYcuxqqjmNbY5zlCtXkdSVn7%2Fe5IWeyOwfVAiBDRipmpu2p8PIQuYewjzu3rE6PTqUVP38%2FAgCMREE4gSrkAgh%2BEAIaDDIwOTg2MzE1OTgzOSIMIKsoI9zcg5cKjmwQKsECQ2sJ%2FHTTiCTlhBN8p9woZRAXD0WosnjPsOTm2fiWh%2BT9TezuXehUVmbEow%2BwTZUleevFID5FGSXiTsq1ODGHdLwevfLdTQ8taHJ%2BgYMLtqhp606vs2F9Ri8xI7P3Nlq5wsbSsz7dZi7x6X%2Br0foCjq3lo0u2rAklbgZEjedsmEpuWpmG16Kqih7ywc6DGuQEaT7VeTPfhC%2Buo5Q3NMxJ2oYcZt%2F4plXvpyl9Q3V2yAPr7rcE2%2BCISH6xUn%2BayNgUIrRi4SqhSLM94mJ9CKZvNgKYdu%2BXHGL38QH5qqe0%2BbkyO6uELTaB2fkye7yKgU0aZb9Ui7DLeu1KgpbUvsfgJ84nFKZXwPjAERMSHbtNeOaBKJAbW4VCWriUBDbYMBszfw3h2YXeqlH4RXa%2BqaMz7hCz5dV065WxGPz7Rc%2BKck2TMOqI8Y8GOrQCpJ0ENVjI8rQnlBGMuJXVN1%2Bm3CL9oj8sOAKVL4D1D7tDCwoLU1Nv4HVq3hVsvEGpWVOh%2F0SXLO6e0hJK0GTzD8xN4HDIec9K5o3qFLq5ve4g1S7LmUpGlDKbBqXmtKCJ%2BmjY8evJR9OjIaDYdutecnAg%2B1A3rsktd7Jml1WTMRb2XakY68ZDoFNwtWVtf69V4aLUdy5dpTB6dtIyW8Cmv7JlUx4ksYhxP3wmI%2FpupQywmSltuNer1QYCK2hqfEAwlom7sx8ZwljhmTeFlCVHUYOpuO5ha963rLfq6%2FzY%2FIUyc%2FdgHFyVW%2B%2BUeb9R6kkyltx1nfxsyuDZbd4PDN0Qo7Jhw8%2FEcT3UHgT%2F84rOQM%2FHQuv%2FQo4M8mkQQle2qWdXIb264FoFBjWpQdvV0%2BIE11TluP4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220204T004548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIATBXGRWAPXV62HHHF%2F20220204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=06ffcbee911c34db9d3d56231bff0e194904d1ea05e32ab03263e52b18f46764"
       },
       {
         "title":"javapong",
         "category":"Built with Java",
         "image":"ping.png",
         "url":"https://github.com/griffinryan/javapong.git"
+      },
+      {
+        "title":"macrice",
+        "category":"Command-line utility built for macOS",
+        "image":"torpdots.png",
+        "url":"https://github.com/griffinryan/macrice.git"
       },
       {
         "title":"Torpoise Live on KEXP",
@@ -116,12 +122,6 @@
         "category":"Check me out on Spotify",
         "image":"album.png",
         "url":"https://open.spotify.com/artist/1mrMGfjOuLEJP3YhW2Fhu3"
-      },
-      {
-        "title":"Instagram",
-        "category":"Check me out on Instagram",
-        "image":"butt.png",
-        "url":"https://www.instagram.com/torpoise/?hl=en"
       }
     ]
   },
