@@ -4,7 +4,7 @@
 
 Source code for [https://griffinryan.com/](https://griffinryan.com/) by Griffin Ryan.
 
-Built on React.js and AWS.
+Built on React.js with AWS technologies.
 
 See the website [here!](https://griffinryan.com/)
 
